@@ -111,6 +111,17 @@ text-transform: uppercase;
 padding: 30px;
 color: #FEFFFF;
 }
+.full-name{
+   
+background-color: #BE0909;
+/*border: none;*/
+left: 80px;
+top: 85px;
+width: 400px;
+border: none;
+color: #FCFFFF;
+letter-spacing: 0.1em;
+}
 .label2{
 
    width: 60px;
@@ -132,6 +143,26 @@ color: #FEFFFF;
    padding: 30px;
  
    }
+   .Your-Email{
+    
+width: 400px;
+height: 21px;
+left: 85px;
+top: 185px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 21px;
+/* identical to box height */
+
+letter-spacing: 0.1em;
+
+color: #FDFFFF;
+background-color: #BE0909;
+border: none;
+   }
    .label3{
       width: 213px;
       height: 21px;
@@ -150,49 +181,86 @@ color: #FEFFFF;
       padding: 30px;
       color: #FCFFFF;
       }
-      .label4{
-
-         width: 93px;
+      .Messag-Regarding{
+        
+         position: absolute;
+         width: 324px;
          height: 21px;
-         left: 308px;
-         top: 507px;
+         left: 318px;
+         top: 549px;
          
          font-family: 'Roboto';
          font-style: normal;
          font-weight: 400;
          font-size: 18px;
          line-height: 21px;
-         /* identical to box height */
          
-         letter-spacing: 0.1em;
-         text-transform: uppercase;
+         letter-spacing: 0.3em;
          
-         color: rgba(254, 255, 255, 0.98);
-         padding: 30px;
+         color: #FEFFFF;
+     }
+     
+      .label4{
+
+     
+width: 324px;
+height: 21px;
+left: 318px;
+top: 549px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 21px;
+/* identical to box height */
+
+letter-spacing: 0.3em;
+
+color: #FEFFFF;
+
          }
 
-         .input-field{
-            letter-spacing: 0.1em;
-            text-transform: uppercase;
-            color: rgba(254, 255, 255, 0.98);
-            box-sizing: border-box;
-            margin-bottom: 10px;
+ .input-field{
+   letter-spacing: 0.1em;
+   text-transform: uppercase;
+    color: rgba(254, 255, 255, 0.98);
+   box-sizing: border-box;
+    margin-bottom: 10px;
             border-bottom-right-radius: 5px;
             border-bottom-left-radius: 5px;
             padding-left: 30px;
             background: #BE0909;
             width: 400px;
-            height: 40px;
+             height: 40px;
+border: none;
 
+ }
+         
+.Your-Message{
+width: 324px;
+height: 21px;
+left: 318px;
+top: 549px;
 
-         }
-         .input-field::placeholder{font-family: 'Roboto';
-            font-style: normal;
-            font-weight: 400;
-            font-size: 18px;
-            line-height: 21px;
-            letter-spacing: 0.3em;
-            color: #FDFFFF;
-            
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 21px;
+/* identical to box height */
+border: none;
+letter-spacing: 0.3em;
 
-         }
+background-color: 
+#BE0909;
+
+ }
+.hr1{
+
+width: 400px;
+height: 0px;
+left: 308px;
+top: 579px;
+border: 1px solid #9DBEBB;
+   }
