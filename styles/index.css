@@ -57,7 +57,7 @@ text-transform: uppercase;
 color: #FEFFFF;
 
 }
-button{
+button {
 background: #468189;
 border-radius: 40px;
 width: 202px;
@@ -76,6 +76,11 @@ letter-spacing: 0.1em;
 text-transform: uppercase;
 
 color: #FFFFFF;
+}
+
+button:hover {
+	background-color: rgba(237, 177, 201, 1);
+	color: rgba(70, 96, 96, 1);
 }
 form{
    flex-direction: column;
