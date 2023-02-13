@@ -111,17 +111,10 @@ text-transform: uppercase;
 padding: 30px;
 color: #FEFFFF;
 }
-.full-name{
-   
-background-color: #BE0909;
-/*border: none;*/
-left: 80px;
-top: 85px;
-width: 400px;
-border: none;
-color: #FCFFFF;
-letter-spacing: 0.1em;
-}
+
+
+
+
 .label2{
 
    width: 60px;
@@ -143,26 +136,8 @@ letter-spacing: 0.1em;
    padding: 30px;
  
    }
-   .Your-Email{
-    
-width: 400px;
-height: 21px;
-left: 85px;
-top: 185px;
+   
 
-font-family: 'Roboto';
-font-style: normal;
-font-weight: 400;
-font-size: 18px;
-line-height: 21px;
-/* identical to box height */
-
-letter-spacing: 0.1em;
-
-color: #FDFFFF;
-background-color: #BE0909;
-border: none;
-   }
    .label3{
       width: 213px;
       height: 21px;
@@ -181,26 +156,8 @@ border: none;
       padding: 30px;
       color: #FCFFFF;
       }
-      .Messag-Regarding{
-        
-         position: absolute;
-         width: 324px;
-         height: 21px;
-         left: 318px;
-         top: 549px;
-         
-         font-family: 'Roboto';
-         font-style: normal;
-         font-weight: 400;
-         font-size: 18px;
-         line-height: 21px;
-         
-         letter-spacing: 0.3em;
-         
-         color: #FEFFFF;
-     }
-     
-      .label4{
+   
+ .label4{
 
      
 width: 324px;
@@ -237,25 +194,7 @@ border: none;
 
  }
          
-.Your-Message{
-width: 324px;
-height: 21px;
-left: 318px;
-top: 549px;
 
-font-family: 'Roboto';
-font-style: normal;
-font-weight: 400;
-font-size: 18px;
-line-height: 21px;
-/* identical to box height */
-border: none;
-letter-spacing: 0.3em;
-
-background-color: 
-#BE0909;
-
- }
 .hr1{
 
 width: 400px;
