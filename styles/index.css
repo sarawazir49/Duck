@@ -5,7 +5,7 @@ body
 font-style: normal;
 }
 .macbookpro{
-   position: absolute;
+ 
    display: flex;
 width: 1440px;
 height: 900px;
@@ -20,7 +20,7 @@ background: #9DBEBB;
 }
 
 .rectangle2{
-   position: absolute;
+position: absolute;
 display: flex;
 width: 375px;
 height: 594px;
